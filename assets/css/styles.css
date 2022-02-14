@@ -112,6 +112,7 @@ nav ul li {
 
 .hero img {
   width: 37.5rem;
+  margin-top: 100px;
 }
 
 .bio {
@@ -135,6 +136,7 @@ nav ul li {
 .more-about {
   background-color: var(--bg-color);
   padding: 1rem 6rem;
+  margin-top: 100px;
 }
 
 .more-about h2 {
@@ -153,7 +155,7 @@ nav ul li {
   max-width: 68.75rem;
   margin: auto;
   text-align: center;
-  margin-top: 2.5rem;
+  margin-top: 100px;
 }
 
 .skill-header {
@@ -175,6 +177,7 @@ nav ul li {
   background-color: var(--bg-color);
   padding: 32px 0;
   margin-top: 2rem;
+  margin-top: 100px;
 }
 
 .project-pic {
@@ -215,7 +218,7 @@ nav ul li {
 
 /* Contacts section */
 .contact {
-  margin-top: 2rem;
+  margin-top: 100px;
 }
 
 .contact h2 {
