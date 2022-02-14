@@ -372,11 +372,10 @@ footer {
     margin-top: -4rem;
     flex-direction: column;
     gap: 0;
+    padding-top: 200px;
   }
 
   .hero img {
-    height: 37.5rem;
-    width: 30rem;
     display: none;
   }
 
