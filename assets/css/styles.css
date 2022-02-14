@@ -7,7 +7,7 @@
   --bold-font: 700;
   --bolder-font: 900;
   --bg-color: #fcfcfc;
-  --primary-color: #4756df;
+  --primary-color: #3F3D56;
   --secondary-color: #ff7235;
   --primary-shadow: #8b8eaf;
   --secondary-shadow: #a17a69;
@@ -95,7 +95,7 @@ nav ul li {
 }
 
 .burger-menu {
-  color: var(--primary-color);
+  color: white;
   font-size: 2rem;
   border: 0;
   background-color: transparent;
@@ -343,6 +343,9 @@ footer {
 @media screen and (max-width: 720px) {
   nav {
     padding: 1.5rem 1rem;
+  }
+  nav a {
+    color: var(--primary-color);
   }
   nav ul {
     position: fixed;
