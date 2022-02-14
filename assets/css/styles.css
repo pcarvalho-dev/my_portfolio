@@ -66,19 +66,23 @@ nav {
   padding: 1.5rem 3.5rem;
   background-color: var(--bg-color);
   box-shadow: 0 3px 5px rgba(0, 0, 0, 0.1);
+  background-color: #3F3D56;
 }
 
 nav h1 {
-  color: var(--primary-color);
+  color: white;
 }
 
 nav a {
-  color: var(--primary-color);
+  color: white;
   transition: var(--transition);
+  padding: 10px;
 }
 nav a:hover {
-  color: var(--secondary-color);
+  color: white;
   border-bottom: 2px solid var(--secondary-color);
+  border-left: 2px solid var(--secondary-color);
+  font-size: larger;
 }
 
 nav ul {
